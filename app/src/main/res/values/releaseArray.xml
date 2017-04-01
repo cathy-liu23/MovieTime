@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="releaseArray">
+        <item>"---"</item>
+        <item>"Before 1990"</item>
+        <item>"1990-2005"</item>
+        <item>"After 2005"</item>
+    </string-array>
+</resources>
